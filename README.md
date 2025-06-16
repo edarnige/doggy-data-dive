@@ -84,7 +84,7 @@ This Jupyter notebook processes and analyzes product pricing and shipping data c
 
 ## Output
 
-- Visual analysis of cost vs. handling time
+- Visual analysis of cost vs. handling time `results/best_providers_plot.png`
 - Filtered and ranked list of top providers per product type
 - Final CSV output: `results/final_filtered_products.csv`
 
